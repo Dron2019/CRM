@@ -1,10 +1,10 @@
 [
     { "id": 1, "color": "#ffff00", "title": "Stage 1" },
-    { "id": 2, "color": "#ffff00", "title": "Stage 2" },
-    { "id": 3, "color": "#ffff00", "title": "Stage 3" },
+    { "id": 2, "color": "#ff00ff", "title": "Stage 2" },
+    { "id": 3, "color": "#00ffff", "title": "Stage 3" },
     { "id": 4, "color": "#ffff00", "title": "Stage 4" },
-    { "id": 5, "color": "#ffff00", "title": "Stage 5" },
-    { "id": 6, "color": "#ffff00", "title": "Stage 6" },
-    { "id": 7, "color": "#ffff00", "title": "Stage 7" },
-    { "id": 8, "color": "#ffff00", "title": "Stage 8" }
+    { "id": 5, "color": "#14f9cf", "title": "Stage 5" },
+    { "id": 6, "color": "#450c9f", "title": "Stage 6" },
+    { "id": 7, "color": "#f7b31c", "title": "Stage 7" },
+    { "id": 8, "color": "#24eb00", "title": "Stage 8" }
 ]
